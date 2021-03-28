@@ -1,0 +1,8 @@
+{
+    "type": "library",
+    "name": "soul-crm/contracts",
+    "description": "Base contracts for SoulCrm",
+    "require": {
+        "php":"^7.4"
+    }
+}
