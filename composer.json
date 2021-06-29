@@ -4,5 +4,10 @@
     "description": "Base contracts for SoulCrm",
     "require": {
         "php":"^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "SoulCrm\\Contracts\\": "src/"
+        }
     }
 }
